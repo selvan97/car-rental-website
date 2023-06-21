@@ -1,0 +1,451 @@
+ *{
+    font-family: 'Roboto', sans-serif;
+ }
+/* first content */
+.customize_contentone{
+    width: 20%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.customize_contentone img{
+    width: 90%;
+}
+.customize_ul{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.customize_formrightside{
+   width: 20%;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+}
+.custom_buttonone .btn-primary{
+    background-color: orangered;
+    outline: 0;
+    box-shadow:none ;
+    border-radius: 0;
+    border-color: orangered;
+   
+}
+.custom_buttonone .btn-primary:active{
+    background-color: orangered;
+    border-color: orangered;
+}
+.custom_buttonone{
+  width: 50%;
+}
+.custom_signin{
+  width: 50%;
+
+}
+
+.position_absolute{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-image: url(../images/hero/hero-bg.png);
+   
+    max-height: 900px;
+    min-height: 870px;
+    width: 50%;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
+
+/* 2nd content */
+
+.for_span{
+    color: orangered;
+}
+.customize_carSize{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.customize_carSize img{
+     width: 90%;
+}
+.but_one{
+    width: 100%;
+}
+ .but_two{
+    width: 100%;
+}
+.but_one .btn-primary{
+    background-color: orangered;
+    outline: 0;
+    box-shadow:none ;
+    border-radius: 0;
+    border-color: orangered;
+}
+.but_two .btn-primary{
+    background-color: black;
+    outline: 0;
+    box-shadow:none ;
+    border-radius: 0;
+    border-color: black;
+}
+.but_one .btn-primary:active{
+    background-color: orangered;
+    border-color: orangered;
+}
+.but_two .btn-primary:active{
+    background-color: black;
+    border-color: black;
+
+
+}
+
+
+    
+/* 3rd content */
+
+.bg_image{
+    width: 100%;
+    background-image: url(../images/book-car/book-bg.png);
+    background-size: cover;
+    background-attachment: local;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: white;
+    box-shadow: 0px 2px 5px -2px rgba(0,0,0,0.75);
+}
+
+.cfm .fa-location-dot{
+    color: orangered;
+    padding-right: 5px;
+}
+.cfm .fa-car{
+    color: orangered;
+    padding-right: 5px;
+
+}
+.cfm .form-select{
+    border-radius: 0%;
+}
+#exampleFormControlInput1{
+    border-radius: 0;
+}
+#exampleFormControlInput2{
+    border-radius: 0;
+}
+.customize_serchBar{
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+}
+
+.customize_serchBar .btn-primary{
+   background-color: orangered;
+   width: 100%;
+   border-radius: 0;
+   border-color: orangered;
+
+}
+.customize_serchBar .btn-primary:active{
+   background-color: orangered;
+   border-color: orangered;
+
+}
+
+
+/* 4th content */
+
+.for_text{
+    text-align: center;
+}
+.content_4icons{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 5th content */
+
+.custom_header{
+    background-color: orangered;
+    margin-bottom: 8px;
+    color: white;
+   
+    font-weight: 700;
+    
+    height: 40px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.custom_section{
+    background-color: whitesmoke;
+    margin-bottom: 5px;
+    font-weight: 700;
+    justify-content: center;
+    height: 40px;
+    display:flex;
+    align-items: center;
+}
+.custom_header2{
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.csb{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    text-align: center;
+    
+}
+.custom_footer{
+    background-color: orangered;
+    text-align: center;
+    font-weight: 700;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    margin-top: 10px;
+    box-shadow: 5px 5px 2px 0px rgba(204,198,204,1);
+}
+.custom_5imag{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.custom_5imag img{
+    width: 90%;
+}
+.custom_5text{
+    text-align: center;
+}
+.custom_5ptag{
+    width: 50%;
+    margin: auto;
+}
+
+/* 6th content */
+.content_six_center{
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* 7th content */
+.customize_seven_image{
+    width: 90%;
+    margin: auto;
+}
+.customize_paragraph{
+    width: 90%;
+    margin: auto;
+}
+.customize_seven_image img{
+    width: 100%;
+}
+.custom_seven_button .btn-primary{
+    background-color: orangered;
+    outline: 0;
+    box-shadow:none ;
+    border-radius: 0;
+    border-color: orangered;
+    width: 100%;
+}.custom_seven_button .btn-primary:active{
+    border-color: orangered;
+    background-color: orangered;
+
+
+}
+.choose_Us{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 8th content */
+.content_eight{
+    background-color:rgb(252, 245, 245);
+    margin-top: 15px;
+}
+.content_eight_ptags{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+.custom_col_eight{
+    background-color: white;
+    margin: auto;
+}
+.custom_rows_eight{
+   padding: 25px;
+}
+
+.eight_profile_pic{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+
+}
+.review_by{
+   
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.eight_profile_pic img{
+   
+    border-radius: 50%;
+    
+    width: 80%;
+    
+}
+.fa_icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fa_icons .fa-quote-right{
+    color: orangered;
+}
+
+/* 9th content */
+
+.bg_white{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.custom_absolute{
+    display: flex;
+    align-items: center;
+}
+
+.custom_absolute img{
+    width: 100%;
+
+}
+
+.customize_nine_ptags{
+    text-align: center
+}
+.customize_accordion{
+    box-shadow: 5px 5px 2px 0px rgba(204,198,204,1);
+}
+.customize_accordion .accordion-item:first-of-type{
+    border-radius: 0%;
+}
+
+.customize_accordion .accordion-button:not(.collapsed){
+    background-color: orangered;
+    border-color: orangered;
+    color: white;
+    
+}
+.customize_accordion .accordion-button:not(.collapsed):focus{
+    border-color: orangered;
+}
+.customize_accordion .accordion-button:focus{
+    box-shadow: unset;
+}
+.customize_accordion .accordion-item:first-of-type .accordion-button{
+    border-radius: 0;
+}
+.customize_accordion .accordion-button:not(.collapsed)::after{
+    transform: none;
+}
+
+ /* 10th content */
+
+
+.content_ten_bg{
+background-color: gainsboro;
+}
+.custom_ten_images{
+    width: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.custom_ten_images img{
+    width: 90%;
+    cursor: pointer;
+}
+.customize_col_two{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.customize_col_two img{
+ width: 90%;
+ 
+}
+.custom_contact_details{
+    display: flex;
+    align-items: center;
+}
+.custom_last_p{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.last_icon{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.custom_last_colomns .btn-primary{
+    background-color: orangered;
+    outline: 0;
+    box-shadow:none ;
+    border-radius: 0;
+    border-color: orangered;
+    width: 100%;
+}
+.custom_last_colomns .btn-primary:active{
+    background-color: orangered;
+    border-color: orangered;
+
+
+}
+
+.custom_last_colomns .form-control{
+border-radius: 0;
+text-align: center;
+background-color: aliceblue;
+}
+
+
+/* MQ CSS */
+
+@media screen and (max-width: 992px) {
+    .custom_absolute {
+     top: 140px;
+     left: 0px;
+
+    }
+  }
+
+
+
+
+
+
+
+
+
